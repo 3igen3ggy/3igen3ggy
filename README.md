@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bartolome
+- 👋 Hi, I’m Bartolomé
 - 👀 I’m interested in Java and Python
 - 💞️ I’m looking for an entry level job
 - 📫 How to reach me -> 3igen3ggy on a google mail (written such way for anti-spam purpose)
