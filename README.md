@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java and Python
 - 💞️ I’m looking for an entry level job
 - 📫 How to reach me -> 3igen3ggy on a google mail (written such way for anti-spam purpose)
+- ✨ Check my resumé https://github.com/3igen3ggy/3igen3ggy/blob/main/Bart%C5%82omiej_Szamota_Resume.pdf
 
 <!---
 3igen3ggy/3igen3ggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
