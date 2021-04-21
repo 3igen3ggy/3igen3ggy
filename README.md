@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartolomé!
 - 👀 I’m interested in Java and Python!
 - 💞️ I’m looking for an entry level job!
-- 📫 How to reach me -> 3igen3ggy on a google mail (written such way for anti-spam purpose)
+- 📫 How to reach me -> check resumé
 - ✨ My resumé https://github.com/3igen3ggy/3igen3ggy/blob/main/Bart%C5%82omiej_Szamota_Resume.pdf
 
 <!---
