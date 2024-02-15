@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bartolomé!
-- 📟 I’m using C#, Java and Python!
+- 📟 I’m using C#, Java and Python! And sometimes Monkey C!
 - 💫 I’m interested in astronomy, physics and mathematics
 - 📃 How to reach me -> check resumé
 - 📌 My resumé https://github.com/3igen3ggy/3igen3ggy/blob/main/Bart%C5%82omiej_Szamota_Resume.pdf
